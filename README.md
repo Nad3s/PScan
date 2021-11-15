@@ -21,9 +21,8 @@ A TCL program who permit scanning TCP ports with hping3. Project of studies in I
 ### Executing program
 
 * How to run the program
-* Step-by-step bullets
 ```
-code blocks for commands
+sudo hping3 exec pscan.tcl
 ```
 
 ## Help
