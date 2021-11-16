@@ -27,7 +27,7 @@ sudo hping3 exec pscan.tcl
 
 ## Help
 
-If you want the documentation of the project, click on the link
+If you want the documentation of the project, click on the link https://nad3s-wiki.notion.site/e802a09888e14839ae9f3e21366d2521?v=d9fff3a57e6a4b8489108afb230b7b1f
 
 In the program, you have the command
 ```
