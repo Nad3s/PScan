@@ -71,6 +71,7 @@ proc verbose {} {; #Function for verbose mode -> Show status(Opened/Closed/Filte
 proc normal {} {; #Function in normal mode -> Just tell opened ports
 	upvar itarg IP
 	upvar ptarg port
+	set lpo ""
 	if {$IP == ""} {
 		puts "Try again"
 	} else {
